@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Memory instance_name (
+    .clk(clk), 
+    .Adr(Adr), 
+    .WD(WD), 
+    .WE(WE), 
+    .RD(RD)
+    );
+
+

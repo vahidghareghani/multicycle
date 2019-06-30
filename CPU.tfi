@@ -1,0 +1,9 @@
+
+
+
+// Instantiate the module
+CPU instance_name (
+    .clk(clk)
+    );
+
+

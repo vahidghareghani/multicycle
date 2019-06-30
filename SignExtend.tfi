@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+SignExtend instance_name (
+    .Imm(Imm), 
+    .EXImm(EXImm)
+    );
+
+

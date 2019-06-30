@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+Latch instance_name (
+    .clk(clk), 
+    .IN(IN), 
+    .OUT(OUT)
+    );
+
+

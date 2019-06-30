@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+CondLatch instance_name (
+    .clk(clk), 
+    .IN(IN), 
+    .WE(WE), 
+    .OUT(OUT)
+    );
+
+

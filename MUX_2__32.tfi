@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MUX_2__32 instance_name (
+    .O(O), 
+    .I(I), 
+    .Sel(Sel), 
+    .OUT(OUT)
+    );
+
+

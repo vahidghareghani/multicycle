@@ -1,0 +1,14 @@
+[Inputs]
+clk
+WE3
+=A1[4:0]=
+=A2[4:0]=
+=A3[4:0]=
+=WD3[31:0]=
+[Outputs]
+=RD1[31:0]=
+=RD2[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel RegisterFile
+
